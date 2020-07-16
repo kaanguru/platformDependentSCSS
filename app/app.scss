@@ -1,0 +1,12 @@
+// NativeScript core theme
+// @see https://docs.nativescript.org/ui/theme
+@import "~@nativescript/theme/core";
+@import "~@nativescript/theme/grey";
+
+// Global SCSS styling
+// @see https://docs.nativescript.org/ui/styling
+
+.message {
+  color: blueviolet;
+  padding: 40;
+}
