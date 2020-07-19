@@ -1,0 +1,5 @@
+{
+  "circleci": {
+    "httpsRepositoryURL": "https://github.com/kaanguru/platformDependentSCSS.git"
+  }
+}
